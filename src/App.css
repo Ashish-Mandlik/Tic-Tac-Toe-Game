@@ -1,0 +1,7 @@
+.heading{
+    display: flex;
+    margin : 2rem auto;
+    justify-content: center;
+    color: white;
+
+}

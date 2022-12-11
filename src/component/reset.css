@@ -1,0 +1,10 @@
+.reset-button {
+    border-radius: 25px;
+    background-color: rgb(159, 115, 171);
+    color: white;
+    font-size: 2rem;
+    padding: 0.5rem 1rem;
+    margin: 2rem auto;
+    display: block;
+    border: none;
+}
